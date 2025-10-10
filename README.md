@@ -6,5 +6,6 @@ Public ViaProxy is ViaProxy Server that is open to public.\
 `address_port_version.viaproxy.hostname`\
 `address.<address>.port.<port>.version.<version>.f2.viaproxy.hostname`
 
-such as: Approximaster Public ViaProxy Server(viaproxy.approximasterstudios2004.ddnsgeek.com:25568/19132) and My Friend Lenni0451's ViaProxy Test Server(viaproxy.lenni0451.net:38888) is that thing.
+such as: Approximaster Public ViaProxy Server(viaproxy.approximasterstudios2004.ddnsgeek.com:25568/19132) and My Friend Lenni0451's ViaProxy Test Server is that thing.
 
+#
